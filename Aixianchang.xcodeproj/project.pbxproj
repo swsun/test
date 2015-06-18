@@ -169,7 +169,7 @@
 		9AFC358D1A51AE9A007358D8 /* Common.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AFC358C1A51AE9A007358D8 /* Common.m */; };
 		9AFC35901A528DA9007358D8 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AFC358F1A528DA9007358D8 /* SettingViewController.m */; };
 		9AFC35931A528E73007358D8 /* SingleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AFC35921A528E73007358D8 /* SingleCell.m */; };
-		EB554C7D938CBA1861C692E2 /* libPods-Aixianchang.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F9CC0A4371D879702D56D8B3 /* libPods-Aixianchang.a */; };
+		EB554C7D938CBA1861C692E2 /* libPods-Aixianchang.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F9CC0A4371D879702D56D8B3 /* libPods-Aixianchang.a */; settings = {ATTRIBUTES = (Required, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
