@@ -1,8 +1,8 @@
 PODS:
   - HMSegmentedControl (1.3.0)
-  - Mantle (HEAD based on 2.0):
-    - Mantle/extobjc (= HEAD based on 2.0)
-  - Mantle/extobjc (HEAD based on 2.0)
+  - Mantle (HEAD based on 2.0.2):
+    - Mantle/extobjc (= HEAD based on 2.0.2)
+  - Mantle/extobjc (HEAD based on 2.0.2)
   - Masonry (HEAD based on 0.6.1)
   - MBProgressHUD (0.9.1)
   - MKNetworkKit (HEAD based on 0.87):
@@ -22,7 +22,7 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   HMSegmentedControl: ea2d0c15ad9812b000874c3a4a51e302d0d082f2
-  Mantle: 17de73ef929db2234d76fde2aacfb89ab11c61e8
+  Mantle: 967fd31ea0220890b2e76589198996b534bb3fb1
   Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
   MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
   MKNetworkKit: 60ad3c83b62183e40ba75ce772c9427c25b520de
